@@ -1,0 +1,6 @@
+@CodeFirstDemoWithAnnotations_HostAddress = http://localhost:5297
+
+GET {{CodeFirstDemoWithAnnotations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
